@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://abhay-bhati.github.io/csb-44z29/static/css/main.c4b928b0.chunk.css",
+    "main.js": "https://abhay-bhati.github.io/csb-44z29/static/js/main.62bc0d97.chunk.js",
+    "main.js.map": "https://abhay-bhati.github.io/csb-44z29/static/js/main.62bc0d97.chunk.js.map",
+    "runtime-main.js": "https://abhay-bhati.github.io/csb-44z29/static/js/runtime-main.4221b081.js",
+    "runtime-main.js.map": "https://abhay-bhati.github.io/csb-44z29/static/js/runtime-main.4221b081.js.map",
+    "static/js/2.252a6e53.chunk.js": "https://abhay-bhati.github.io/csb-44z29/static/js/2.252a6e53.chunk.js",
+    "static/js/2.252a6e53.chunk.js.map": "https://abhay-bhati.github.io/csb-44z29/static/js/2.252a6e53.chunk.js.map",
+    "index.html": "https://abhay-bhati.github.io/csb-44z29/index.html",
+    "static/css/main.c4b928b0.chunk.css.map": "https://abhay-bhati.github.io/csb-44z29/static/css/main.c4b928b0.chunk.css.map",
+    "static/js/2.252a6e53.chunk.js.LICENSE.txt": "https://abhay-bhati.github.io/csb-44z29/static/js/2.252a6e53.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4221b081.js",
+    "static/js/2.252a6e53.chunk.js",
+    "static/css/main.c4b928b0.chunk.css",
+    "static/js/main.62bc0d97.chunk.js"
+  ]
+}
